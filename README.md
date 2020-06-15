@@ -18,4 +18,36 @@ Recommened Sessions:
 3. R13: Data Cleaning, Curation and Analytics (Wed 22nd April, 12:00-13:30)
 4. R18: Search and Information Extraction (Wed 22nd April, 14:00-15:30)
 
+### SIGMOD 2020
 
+Related Papers:
+1. A Comprehensive Benchmark Framework for Active Learning Methods in Entity Matching [[Paper](https://doi.org/10.1145/3318464.3380597)]
+2. ZeroER: Entity Resolution using Zero Labeled Examples [[Paper](https://doi.org/10.1145/3318464.3389743)]
+3. Towards Interpretable and Learnable Risk Analysis for Entity Resolution [[Paper](https://doi.org/10.1145/3318464.3380572)]
+4. SLIM: Scalable Linkage of Mobility Data [[Paper](https://doi.org/10.1145/3318464.3389761)]
+5. Learning Over Dirty Data Without Cleaning [[Paper](https://doi.org/10.1145/3318464.3389708)]
+6. Creating Embeddings of Heterogeneous Relational Datasets for Data Integration Tasks [[Paper](https://doi.org/10.1145/3318464.3389742)]
+7. SPARQL Rewriting: Towards Desired Results [[Paper](https://doi.org/10.1145/3318464.3389695)]
+8. Realistic Re-evaluation of Knowledge Graph Completion Methods: An Experimental Study [[Paper](https://doi.org/10.1145/3318464.3380599)]
+9. Organizing Data Lakes for Navigation [[Paper](https://doi.org/10.1145/3318464.3380605)]
+10. Finding Related Tables in Data Lakes for Interactive Data Science [[Paper](https://doi.org/10.1145/3318464.3389726)]
+11. Web Data Extraction using Hybrid Program Synthesis: A Combination of Top-down and Bottom-up Inference [[Paper](https://doi.org/10.1145/3318464.3380608)]
+12. Cleaning Denial Constraint Violations through Relaxation [[Paper](https://doi.org/10.1145/3318464.3389775)]
+13. SCODED: Statistical Constraint Oriented Data Error Detection [[Paper](https://doi.org/10.1145/3318464.3380568)]
+14. A Method for Optimizing Opaque Filter Queries [[Paper](https://doi.org/10.1145/3318464.3389766)]
+
+Other interesting papers:
+1. Monotonic Cardinality Estimation of Similarity Selection: A Deep Learning Approach [[Paper](https://doi.org/10.1145/3318464.3380570)]
+2. Minimization of Classifier Construction Cost for Search Queries [[Paper](https://doi.org/10.1145/3318464.3389755)]
+3. Complaint-driven Training Data Debugging for Query 2.0 [[Paper](https://doi.org/10.1145/3318464.3389696)]
+4. Densely Connected User Community and Location Cluster Search in Location-Based Social Networks [[Paper](https://doi.org/10.1145/3318464.3380603)]
+5. Reliable Data Distillation on Graph Convolutional Network [[Paper](https://doi.org/10.1145/3318464.3389706)]
+6. DB4ML – An In-Memory Database Kernel with Machine Learning Support [[Paper](https://doi.org/10.1145/3318464.3380575)]
+7. Efficient Algorithms for Densest Subgraph Discovery on Large Directed Graphs [[Paper](https://doi.org/10.1145/3318464.3389697)]
+
+
+Recommened Sessions:
+1. Research 13: Data Matching, Wednesday 10:30 AM – 12:00 PM
+2. Research 15: Machine Learning for Cleaning, Integration, and Search, Wednesday 10:30 AM – 12:00 PM
+3. Research 9: Data Cleaning, Wednesday 4:30 AM – 6:00 PM (I think this should be 4:30PM, the official website has a typo)
+4. Research 22: Data Lakes, Web, and Knowledge Graph, Thursday 10:30 AM – 12:00 PM
