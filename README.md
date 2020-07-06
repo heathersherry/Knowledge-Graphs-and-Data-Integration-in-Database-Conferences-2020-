@@ -2,7 +2,7 @@
 
 ### ICDE 2020
 
-Related Papers:
+Research Papers:
 1. Optimizing Knowledge Graphs through Voting-based User Feedback [[Video](https://www.google.com/url?q=https://drive.google.com/open?id%3D18T_LjZIo6Fr3GhPVLFr3NtqOyHASdxAy&sa=D&ust=1587488616452000&usg=AFQjCNFS1PMHv1YoTTadm-1_KDEsuHZywg)][[Slides](https://www.google.com/url?q=https://drive.google.com/open?id%3D1aqOTcSYJON-aONp0PPCoUpz9rNr0lKZb&sa=D&ust=1587488616452000&usg=AFQjCNHJkIFfvJ5mARJ2fHMXfSXwljABTg)][[Paper](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300a421/290300a421.pdf)]
 2. AutoSF: Searching Scoring Functions for Knowledge Graph Embedding [[Video](https://www.google.com/url?q=https://drive.google.com/open?id%3D1wRHmVHiit8xIZalwL2ZUx5IZcu8BVr_4&sa=D&ust=1587488616452000&usg=AFQjCNF27HybM9QnROVO4NeCbqFVvObi0w)][[Slides](https://www.google.com/url?q=https://drive.google.com/open?id%3D1fYdh05WWG0Aco403ArzWafMrf7-joBpu&sa=D&ust=1587488616452000&usg=AFQjCNHnaXb02kbU7LZq5zHG1RhvDon07A)][[Paper](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300a433/290300a433.pdf)]
 3. Semantic Guided and Response Times Bounded Top-k Similarity Search over Knowledge Graphs [[Video](https://www.google.com/url?q=https://drive.google.com/open?id%3D1ejMq8cZrTZT1Nn0D-zaMlW7X7ESkSDro&sa=D&ust=1587488616453000&usg=AFQjCNEeyFqVvX9q4QWy8jc4jHfpdEc2Zw)][[Slides](https://www.google.com/url?q=https://drive.google.com/open?id%3D1JyhtaWEeRvzS6TmIuplZNd5ZId3Larpz&sa=D&ust=1587488616453000&usg=AFQjCNEI5es_-rKQs-eUImsqivdAFNAnvw)][[Paper](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300a445/290300a445.pdf)]
@@ -20,7 +20,7 @@ Recommened Sessions:
 
 ### SIGMOD 2020
 
-Related Papers:
+Research Papers:
 1. A Comprehensive Benchmark Framework for Active Learning Methods in Entity Matching [[Paper](https://doi.org/10.1145/3318464.3380597)]
 2. ZeroER: Entity Resolution using Zero Labeled Examples [[Paper](https://doi.org/10.1145/3318464.3389743)]
 3. Towards Interpretable and Learnable Risk Analysis for Entity Resolution [[Paper](https://doi.org/10.1145/3318464.3380572)]
@@ -66,3 +66,17 @@ Recommened Sessions:
 3. Research 9: Data Cleaning, Wednesday 4:30 AM – 6:00 PM (I think this should be 4:30PM, the official website has a typo)
 4. Research 22: Data Lakes, Web, and Knowledge Graph, Thursday 10:30 AM – 12:00 PM
 5. Industry 3: Graph Databases and Knowledge Bases, Wednesday 4:30 PM -6:00 PM
+
+### KDD2020
+Research Papers and Applied Data Science Track Papers:
+1. Dynamic Knowledge Graph based Multi-Event Forecasting
+2. Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion
+3. Incremental Mobile User Profiling: Reinforcement Learning with Spatial Knowledge Graph for Modeling Event Streams
+4. MultiImport: Inferring Node Importance in a Knowledge Graph from Multiple Input Signals
+5. REA: Robust Cross-lingual Entity Alignment Between Knowledge Graphs
+6. AutoKnow: Self-Driving Knowledge Collection for Products of Thousands of Types (Applied Data Science Track)
+7. Domain Specific Knowledge Graphs as a Service to the Public (Applied Data Science Track)
+8. BOND: Bert-Assisted Open-Domain Named Entity Recognition with Distant Supervision
+9. CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring
+10. Representing Temporal Attributes for Schema Matching
+11. Automatic Validation of Textual Attribute Values in ECommerce Catalog by Learning with Limited Labeled Data (Applied Data Science Track)
