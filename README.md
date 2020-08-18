@@ -9,6 +9,7 @@ Researh Papers:
 4. A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs
 5. Effective and Efficient Relational Community Detection and Search in Large Dynamic Heterogeneous Information Networks
 6. Obi-Wan: Ontology-Based RDF Integration of Heterogeneous Data
+7. Selecting Data to Clean for Fact Checking: Minimizing Uncertainty vs. Maximizing Surprise
 
 Other Intersting Papers:
 1. Optimizing DNN Computation Graph using Graph Substitutions
@@ -107,7 +108,7 @@ Recommened Sessions:
 4. Research 22: Data Lakes, Web, and Knowledge Graph, Thursday 10:30 AM – 12:00 PM
 5. Industry 3: Graph Databases and Knowledge Bases, Wednesday 4:30 PM -6:00 PM
 
-### KDD2020
+### KDD 2020
 Research Papers and Applied Data Science Track Papers:
 1. Dynamic Knowledge Graph based Multi-Event Forecasting
 2. Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion
@@ -120,3 +121,14 @@ Research Papers and Applied Data Science Track Papers:
 9. CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring
 10. Representing Temporal Attributes for Schema Matching
 11. Automatic Validation of Textual Attribute Values in ECommerce Catalog by Learning with Limited Labeled Data (Applied Data Science Track)
+
+### VLDBJ 2020
+1. A survey of community search over big graphs
+2. An analytical study of large SPARQL query logs
+3. Snorkel: rapid training data creation with weak supervision
+
+### TKDE 2020
+1. r-HUMO: A Risk-Aware Human-Machine Cooperation Framework for Entity Resolution with Quality Guarantees
+2. Bayesian Networks for Data Integration in the Absence of Foreign Keys
+3. Efficient Entity Resolution on Heterogeneous Records
+4. Generalized Translation-Based Embedding of Knowledge Graph
