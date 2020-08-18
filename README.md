@@ -1,4 +1,43 @@
 ## Knowledge Graphs and Data Integration in Database Conferences (2020)
+You can check the conference prograpm webpages and attend the sessions that you are interested in.
+
+### VLDB 2020 [[Conference Program, you can listen to the talk of each paper on Youtube or Bilibili]](https://vldb2020.org/program.html)
+Researh Papers:
+1. Mining an "Anti-Knowledge Base" from Wikipedia Updates with Applications to Fact Checking and Beyond
+2. KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking
+3. Knowledge Translation
+4. A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs
+5. Effective and Efficient Relational Community Detection and Search in Large Dynamic Heterogeneous Information Networks
+6. Obi-Wan: Ontology-Based RDF Integration of Heterogeneous Data
+
+Other Intersting Papers:
+1. Optimizing DNN Computation Graph using Graph Substitutions
+
+Demo Papers:
+1. RDFFrames: Knowledge Graph Access for Machine Learning Tools
+2. SPHINX: A System for Metapath-based Entity Exploration in Heterogeneous Information Networks
+
+Workshops:
+1. Fast Entity Resolution With Mock Labels and Sorted Integer Sets
+2. Entity Resolution on Camera Records without Machine Learning
+3. CheetahER: A Fast Entity Resolution System for Heterogeneous Camera Data
+4. An Extensible Block Scheme-Based Method for Entity Matching
+5. Spread the good around! Information Propagation in Schema Matching and Entity Resolution for Heterogeneous Data
+6. Intermediate Training of BERT for Product Matching
+7. Towards Guaranteeing Global Consistency for Peer-based Data Integration Architecture
+8. Integration of Fast-Evolving Data Sources Using A Deep Learning Approach
+9. Reliable Clustering with Applications to Data Integration
+
+Recommend Sessions (Tokyo time):
+1. W2_3-6 Tuesday, September 1st 2020, 11:00 am - Knowledge Graphs
+2. Day3-Block1 Thursday, September 3rd 2020, 6:00 pm - Knowledge Bases
+3. Day2-Block3 Thursday, September 3rd 2020, 7:00 am - Knowledge Graphs & Hypergraphs
+4. Pre-Conference-Workshop Monday, August 31st 2020, 4:00 pm - DI2KG (1)
+5. Pre-Conference-Workshop Monday, August 31st 2020, 11:00 pm - DI2KG (2) (Same as DI2KG(1))
+
+You can also go to the graph sessions, where a lot of novel graph algorithms (e.g., subgraph seraching) are proposed...
+
+
 
 ### ICDE 2020
 
