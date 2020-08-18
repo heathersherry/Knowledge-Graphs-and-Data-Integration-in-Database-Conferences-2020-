@@ -39,7 +39,7 @@ You can also go to the graph sessions, where a lot of novel graph algorithms (e.
 
 
 
-### ICDE 2020 [[Conference Program, Videos and Slides avaliable]](https://www.utdallas.edu/icde/program-at-a-glance.html)
+### ICDE 2020 [[Conference Program, videos and slides avaliable]](https://www.utdallas.edu/icde/program-at-a-glance.html)
 
 Research Papers:
 1. Optimizing Knowledge Graphs through Voting-based User Feedback [[Video](https://www.google.com/url?q=https://drive.google.com/open?id%3D18T_LjZIo6Fr3GhPVLFr3NtqOyHASdxAy&sa=D&ust=1587488616452000&usg=AFQjCNFS1PMHv1YoTTadm-1_KDEsuHZywg)][[Slides](https://www.google.com/url?q=https://drive.google.com/open?id%3D1aqOTcSYJON-aONp0PPCoUpz9rNr0lKZb&sa=D&ust=1587488616452000&usg=AFQjCNHJkIFfvJ5mARJ2fHMXfSXwljABTg)][[Paper](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300a421/290300a421.pdf)]
