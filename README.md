@@ -59,7 +59,7 @@ Recommened Sessions:
 3. R13: Data Cleaning, Curation and Analytics (Wed 22nd April, 12:00-13:30)
 4. R18: Search and Information Extraction (Wed 22nd April, 14:00-15:30)
 
-### SIGMOD 2020
+### SIGMOD 2020 [[Conference Program (user account required)]](https://www.sigmod2020online.org/)
 
 Research Papers:
 1. A Comprehensive Benchmark Framework for Active Learning Methods in Entity Matching [[Paper](https://doi.org/10.1145/3318464.3380597)]
