@@ -108,7 +108,7 @@ Recommened Sessions:
 4. Research 22: Data Lakes, Web, and Knowledge Graph, Thursday 10:30 AM – 12:00 PM
 5. Industry 3: Graph Databases and Knowledge Bases, Wednesday 4:30 PM -6:00 PM
 
-### KDD 2020
+### KDD 2020 [[Videos avaliable (you can ask Professor Chen for the account)]](https://kddvirtual2020.vfairs.com/en/hall)
 Research Papers and Applied Data Science Track Papers:
 1. Dynamic Knowledge Graph based Multi-Event Forecasting
 2. Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion
