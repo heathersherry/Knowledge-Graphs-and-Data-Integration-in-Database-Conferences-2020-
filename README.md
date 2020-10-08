@@ -5,7 +5,7 @@ You can check the conference prograpm webpages and attend the sessions that you 
 Researh Papers:
 1. Mining an "Anti-Knowledge Base" from Wikipedia Updates with Applications to Fact Checking and Beyond
 2. KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking
-3. Knowledge Translation
+3. Knowledge Translation [[Technical Report](https://arxiv.org/pdf/2008.01208.pdf)]
 4. A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs
 5. Effective and Efficient Relational Community Detection and Search in Large Dynamic Heterogeneous Information Networks
 6. Obi-Wan: Ontology-Based RDF Integration of Heterogeneous Data
