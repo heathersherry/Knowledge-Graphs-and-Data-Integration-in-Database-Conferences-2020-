@@ -126,9 +126,14 @@ Research Papers and Applied Data Science Track Papers:
 1. A survey of community search over big graphs
 2. An analytical study of large SPARQL query logs
 3. Snorkel: rapid training data creation with weak supervision
+4. Automatic weighted matching rectifying rule discovery for data repairing
+5. Diversified spatial keyword search on RDF data
+6. RDF graph summarization for first-sight structure discovery [[Paper](https://link.springer.com/article/10.1007/s00778-020-00611-y)]
+
 
 ### TKDE 2020
 1. r-HUMO: A Risk-Aware Human-Machine Cooperation Framework for Entity Resolution with Quality Guarantees
 2. Bayesian Networks for Data Integration in the Absence of Foreign Keys
 3. Efficient Entity Resolution on Heterogeneous Records
 4. Generalized Translation-Based Embedding of Knowledge Graph
+5. Joint Learning of Question Answering and Question Generation
